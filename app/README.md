@@ -14,7 +14,7 @@ Step 1: Create a Trip
 
 Click the "Add Button" it will navigate to Search Screen.
 
-https://github.com/priyangamani/Code-Challenge/blob/master/app/screenshots/HomePage.JPEG
+
     
 Step 2: Search Screen
 
