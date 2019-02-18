@@ -14,11 +14,14 @@ Step 1: Create a Trip
 
 Click the "Add Button" it will navigate to Search Screen.
 
-
+![alt text](https://github.com/priyangamani/Code-Challenge/blob/master/app/screenshots/HomePage.JPEG)
     
 Step 2: Search Screen
 
+
 Next, let's type in to the search bar. By using Google Places API , we are able to display the highest relevance search results nearest to you, while also displaying the distance in real-time
+
+![alt text](https://github.com/priyangamani/Code-Challenge/blob/master/app/screenshots/GooglePlace.JPEG)
     
 Step 3: Place Screen
 
