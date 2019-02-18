@@ -1,8 +1,13 @@
 Installation
+
 git clone this repository
+
 npm install
+
 react-native link
+
 react-native run-android
+
 react-native run-ios
 
 Step 1: Create a Trip 
