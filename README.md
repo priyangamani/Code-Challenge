@@ -10,9 +10,9 @@ TAPP Code Challenge for Software Engineer Candidates
 
 ## Candidate Information (Fill out with your info)
 
-Name: _Your Name_
+Name: Priyanga
 
-Email: _Your email_
+Email: mpriyanga1@gmail.com
 
 Resume: _link to your resume_
 
