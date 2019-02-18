@@ -16,7 +16,7 @@ Email: mpriyanga1@gmail.com
 
 Resume: _link to your resume_
 
-Additional: _Such as Github or LinkedIn, etc_
+Additional: https://www.linkedin.com/in/priyanga-manivelan-69091291/
 
 ## Intro
 
