@@ -4,7 +4,7 @@ module.exports = {
   databaseURL: "https://tapptravel-1463d.firebaseio.com",
   projectId: "tapptravel-1463d",
   storageBucket: "tapptravel-1463d.appspot.com",
-  messagingSenderId: "1010277712086"
+  messagingSenderId: "1010277712086" 
 };
 
 
