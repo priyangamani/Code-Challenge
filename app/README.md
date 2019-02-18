@@ -10,6 +10,8 @@ react-native run-android
 
 react-native run-ios
 
+Test : npm test App
+
 Step 1: Create a Trip 
 
 Click the "Add Button" it will navigate to Search Screen.
