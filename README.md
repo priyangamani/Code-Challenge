@@ -14,7 +14,7 @@ Name: Priyanga
 
 Email: mpriyanga1@gmail.com
 
-Resume: _link to your resume_
+Resume: https://drive.google.com/file/d/1VAjg6jmfH6JJkAyjJqUNf7nl9lhq0aDm/view
 
 Additional: https://www.linkedin.com/in/priyanga-manivelan-69091291/
 
