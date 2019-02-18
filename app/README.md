@@ -28,11 +28,17 @@ Step 3: Place Screen
 To add this place to a list, click on the "Pin to Trip " button.
 Let's start by saving some bookmarks data. We'll store each bookmark places by address, and we'll also store their rating and other info in realtime Database by using Firebase
 
+![alt text](https://github.com/priyangamani/Code-Challenge/blob/master/app/screenshots/PlacePin.JPEG)
+
   
 Step 4:BookMarkScreen
 View Saved Address in carousell Image(BookMarkScreen)
 Click the "carousell Image" it will navigate to the detailed view ,location on map(Retrieve the data by using redux flow)
 
+![alt text](https://github.com/priyangamani/Code-Challenge/blob/master/app/screenshots/Pinned.JPEG)
+
 Step 5: Remove the data from firebase.By clicking the pinned to Trip button.
+
+![alt text](https://github.com/priyangamani/Code-Challenge/blob/master/app/screenshots/RemoveBookmark.JPEG)
 
 
