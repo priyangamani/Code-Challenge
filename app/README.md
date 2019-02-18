@@ -41,4 +41,6 @@ Step 5: Remove the data from firebase.By clicking the pinned to Trip button.
 
 ![alt text](https://github.com/priyangamani/Code-Challenge/blob/master/app/screenshots/RemoveBookmark.JPEG)
 
+![alt text](https://github.com/priyangamani/Code-Challenge/blob/master/app/screenshots/Home.JPEG)
+
 
