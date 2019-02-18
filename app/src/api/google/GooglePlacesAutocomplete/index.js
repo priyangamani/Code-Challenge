@@ -19,7 +19,7 @@ const GooglePlacesInput = ({ onPress }) => (
     query={{
       // available options: https://developers.google.com/places/web-service/autocomplete
       key: APIKey,
-      language: 'en', // language of the results
+      language: 'en', //language of the results
       types: 'establishment',
     }}
     styles={styles}
